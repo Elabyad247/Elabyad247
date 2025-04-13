@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elabyad247&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&quote=Programming%20is%20programming.%20If%20you%20get%20good%20at%20programming%2C%20it%20doesn%27t%20matter%20which%20language%20you%20learned%20it%20in%2C%20because%20you%27ll%20be%20able%20to%20do%20programming%20in%20any%20language.)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&author=""&theme=gruvbox&quote=Programming%20is%20programming.%20If%20you%20get%20good%20at%20programming%2C%20it%20doesn%27t%20matter%20which%20language%20you%20learned%20it%20in%2C%20because%20you%27ll%20be%20able%20to%20do%20programming%20in%20any%20language.)
 
 ---
